@@ -6,7 +6,9 @@ amplifier and interfaced with a maple mini clone.
 
 ## Load Cell Full Bridge
 ![Load Cell Full Bridge](img/bridge.png)
+
 Shared on [OSH Park.](https://oshpark.com/shared_projects/TjpPaXwd)
+
 ### BOM
 
 | Name           | Description                 | MPN        |
@@ -16,6 +18,7 @@ Shared on [OSH Park.](https://oshpark.com/shared_projects/TjpPaXwd)
 
 ## Amplifier Connector
 ![Amplifier Connector](img/amp.png)
+
 Shared on [OSH Park.](https://oshpark.com/shared_projects/CgzNqpg0)
 
 ### BOM
@@ -26,6 +29,7 @@ Shared on [OSH Park.](https://oshpark.com/shared_projects/CgzNqpg0)
 
 ## Controller Half Shield
 ![Controller Half Shield](img/controller.png)
+
 Shared on [OSH Park.](https://oshpark.com/shared_projects/OMPG9A2k)
 
 ### BOM
